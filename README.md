@@ -17,4 +17,4 @@ You can download the trained models in the following links.
 
 - [20-layer Conven](https://drive.google.com/file/d/11qfKFH-WlZQDfNBJOmePXzFx4ZEn-lBh/view?usp=sharing)
 - [20-layer SharedStack](https://drive.google.com/file/d/1hqeAdq_vMxQf3mDXF3OMp6SdjoMOjgOH/view?usp=sharing)
-- [24-layer SharedStack]()
+- [24-layer SharedStack](https://drive.google.com/file/d/19CbrT5xQulU5tWjOv8fPxju08W9bOmwP/view?usp=sharing)
