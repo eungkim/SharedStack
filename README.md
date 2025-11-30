@@ -11,3 +11,10 @@ Also, the 24-layer 1024-dim model with SharedStack achieves 2.7% WER and 6.3% WE
 
 ## Training details
 The models are trained with the 128 unigram tokenizer.
+
+## Models
+You can download the trained models in the following links.
+
+- [20-layer Conven](https://drive.google.com/file/d/11qfKFH-WlZQDfNBJOmePXzFx4ZEn-lBh/view?usp=sharing)
+- [20-layer SharedStack](https://drive.google.com/file/d/1hqeAdq_vMxQf3mDXF3OMp6SdjoMOjgOH/view?usp=sharing)
+- [24-layer SharedStack]()
