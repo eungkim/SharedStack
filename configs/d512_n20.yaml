@@ -1,6 +1,4 @@
-name: d512_n20_conven
-
-architecture: conven
+name: MODEL_NAME
 
 tokenizer:
   vocab_size: 128
